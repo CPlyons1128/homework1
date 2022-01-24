@@ -1,0 +1,19 @@
+    seller  productPrice  shippingCost  totalCost
+radioshack          5.99          0.00       5.99
+   bestbuy          3.99          5.00       8.99
+    amazon          4.99          5.00       9.99
+   walmart          3.50         10.00      13.50
+DisplaySellerList hdmi2VgaAdapter
+    seller  productPrice  shippingCost  totalCost
+   walmart         12.50          0.00      12.50
+   bestbuy         13.99          5.00      18.99
+DisplaySellerList AppleIphone
+    seller  productPrice  shippingCost  totalCost
+applestore       1000.00          0.00    1000.00
+CustomerPurchase USBdrive radioshack 10 0
+DepletedInventoryRemoveSeller USBdrive radioshack
+DisplaySellerList USBdrive
+    seller  productPrice  shippingCost  totalCost
+   bestbuy          3.99          5.00       8.99
+    amazon          4.99          5.00       9.99
+   walmart          3.50         10.00      13.50

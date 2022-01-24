@@ -1,0 +1,5 @@
+    seller  productPrice  shippingCost  totalCost
+   walmart        450.00          0.00     450.00
+    amazon        499.00          0.00     499.00
+   bestbuy        515.00          0.00     515.00
+applestore        550.00          0.00     550.00
